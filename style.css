@@ -1,8 +1,16 @@
+.title{
+    background-color: #1a8e52;
+    border-radius: 15px;
+}
+
 h1 {
     font-family: 'Courier New', Courier, monospace;
-    background-color: burlywood;
+    font-size: 50px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 ul {
+
     color: aqua;
 }
